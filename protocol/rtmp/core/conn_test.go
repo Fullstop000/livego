@@ -5,7 +5,7 @@ import (
 	"io"
 	"testing"
 	"github.com/stretchr/testify/assert"
-	"github.com/gwuhaolin/livego/utils/pool"
+	"github.com/Fullstop000/livego/utils/pool"
 )
 
 func TestConnReadNormal(t *testing.T) {

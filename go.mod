@@ -1,4 +1,4 @@
-module github.com/gwuhaolin/livego
+module github.com/Fullstop000/livego
 
 go 1.12
 
